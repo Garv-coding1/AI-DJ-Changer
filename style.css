@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+.header {
+    width:100%;
+    margin-top:0px;
+    font-size:30px;
+    box-shadow: 5px 5px 5px red;
+}
+.note {
+    font-size:20px;
+    color:black;
+}
+.song_name {
+    font-size:17px;
+    white-space: pre-wrap;
+}
+
+#copyright {
+    width:100%;
+    line-height:3;
+    background-color: coral;
+    color:crimson;
+    bottom:0;
+    position:fixed;
+}
+
+canvas {
+    border: 3px black dashed;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px blue;
+}
